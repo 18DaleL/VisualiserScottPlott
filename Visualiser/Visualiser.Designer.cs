@@ -54,8 +54,8 @@
             // toolStripStatusLabel1
             // 
             toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            toolStripStatusLabel1.Size = new Size(154, 17);
-            toolStripStatusLabel1.Text = "Click plot to display a graph";
+            toolStripStatusLabel1.Size = new Size(142, 17);
+            toolStripStatusLabel1.Text = "Welcome to Levi's graphs";
             // 
             // menuStrip1
             // 
